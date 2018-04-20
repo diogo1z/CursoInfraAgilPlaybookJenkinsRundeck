@@ -1,0 +1,5 @@
+[ubuntu]
+192.168.201.98  host_key_check=False ansible_ssh_user=root
+
+[centos]
+192.168.201.150 host_key_check=False ansible_ssh_user=root
